@@ -69,3 +69,9 @@ This heatmap visualises the correlation between all numerical features in the da
 - For example, MonthlyCharges and TotalCharges often show high correlation.
 
 - Churn is also included, so we can spot which features are positively or negatively associated with churn.
+
+## Dataset
+
+The dataset was obtained from Kaggle.
+
+link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
